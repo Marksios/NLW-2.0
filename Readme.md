@@ -6,7 +6,7 @@
 
 Segundo projeto construído no Next Level Week(NLW) da Rocketseat!
 
-[Clique aqui para acessar](https://marksios.github.io/nlw-2.0)
+[Clique aqui para acessar](https://marksios.github.io/NLW-2.0)
 
 ## Tecnologias
 
